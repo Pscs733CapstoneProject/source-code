@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "esarkartrainingbot-avcm",
+    "private_key_id": "b6c03a41ebcea362c4f21a16d5821a1778130529",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6/fCjzvYHe4kw\nvzic8gW9xzGkafGPMUMDm6iM9XXDZcsLDK8GqC/AOyvw+eIw/HycG12isYkrDK2+\nyJEwVvc8kiDDC9qTaMFHiqP4ACS6wF7ArwcbvrcTJc3EE+AAWQiecyqCi724pf0B\nf6xHr0EwUC02/EI3oOWpwM29G2eYU+0bd+rdDF/EXzcB8C36lHz4D/vmw41KaUmL\nND0MApNT3ljVejzLjwagx5LnZ5/jXOPtR794MpFiOWbqANNSxDxq7SlN1D/2M1sp\nK9qiJByFY+fVFkreBWEFT/HXW4JbfBFWIuoIevKHBtqozi6WLLjAmMzuBIAHRFa4\n9YYyv3JzAgMBAAECggEATb9h+6oEj63kp9kJ/+99RZ/52wOVxVTVKT3iQeGZOkor\ntwdqCpmJaSLxLTuouXdxlDKopwmsH7Mg1o9sFq5CE/QqHQ7jraDDpCxX6ricjO2J\nOBJOIVIVqqdwO5OL8nkSZVc7GJZjps+VN7dO+Ws77ouXkSInohuLAh7BLFyloSal\nu4xIyGciPrg1JEy3VI77Kol0vjSf4NBYgZl0k8hs0fhxiW4i9CPiXL8sHDFXJ2xc\nMb7fYayk7XB7aZrRe2b/4KP4UEd8AD4DJQWps0sdCZtZ0B45x/Kb+V9df3xpPWZF\nUehnFuvqQ7ICkbUHarzIF2tuSI1cIzlN+9bl4iG/iQKBgQDpvgY0kShG3aSnoHSZ\nEgKGTHTs4IulR2vf1xx4rcmW5bUFS8wlhE/Gr2dZ/LQHLJsqPi3m1A/SERUpEpXn\np23E2D8MvVBu2s4Ucjtz1nleXlzQ3qBYA/0YxP0E4RHh+h381NzS2lYp2rwmryYo\nU4Ad/Kd3/44V8kfX/cAz3rPr3QKBgQDMzEZjrmC97rNiO9uU5YEopWFmYXUmhVTx\nDjL5DVU/3N4k3/S3vVUUI2EsLIlOnndb/2Xlc1kcD+GTwagzyplpflUTvYvYxpkA\nJk6sBszCJdvtBQ9ZOcMZb9vPRph2DvEX23Ucm3/krsT72TEJoqjR7hVCqwedU0nq\nfR5wOO9ajwKBgDzJ4qtBJQxpEC1YGXrFqEptD+ua6jZtwKxSMWFhMRBBZTafY9RN\n+MFfVK2efuNuwlvWF/H0LLkhIDOyVbINZQrQgnU5tvVdikLfAn85xA6608CuZVz+\njJAoivT947y1Y58hbNyZU9dGv6//1Rifvq4Nyy/2Emm6vNx7bcUPohMxAoGBALaN\nOAlOvOlQxxG/bYIR+clzcZjDMpv9qbOeBo299smQZWvVPdwypo3m441uvY4Y7yhQ\nRlH7OekrttXwf7B63bkNZWTNRsUacfOSMfphrU86VAm4wu+z71bTQMpIkUpbE0lC\n0+eGLMB5kRk1huKh3X4TjVv5/DWesnqUwPcjqSe9AoGAd6mUCpq8NZSpKmhFZmFk\nevHiKH1wfAv94TzHowWxjnYZ0AlVZem63RMIE5b6MonThuKuA67ACNuwHlJB6UpR\nPNn3tbfOIx0SAO0nUtQNi5N4iHZOdRFsApxEyXlwrR+DieoUcGhJ1agD0ZXiIBl+\nL2Vb3ZgVgUovqcK/Dt1DMyE=\n-----END PRIVATE KEY-----\n",
+    "client_email": "dialogflow-esarkar-bot@esarkartrainingbot-avcm.iam.gserviceaccount.com",
+    "client_id": "117121714267891761429",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-esarkar-bot%40esarkartrainingbot-avcm.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  

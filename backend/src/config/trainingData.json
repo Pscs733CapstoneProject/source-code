@@ -1,0 +1,80 @@
+[
+    {
+      "id": "auth-role",
+      "title": "User Authentication & Role Detection",
+      "role": "Admin",
+      "department": "IT",
+      "text": "User Authentication & Role Detection: secure login system to identify staff and map them to their respective roles. Use role based access and map designation like Clerk, Officer, Admin for personalized training."
+    },
+    {
+      "id": "chatbot-layer",
+      "title": "Chatbot Interaction Layer",
+      "role": "All",
+      "department": "All",
+      "text": "Chatbot Interaction Layer: an AI/NLP-powered chatbot interface for natural, conversational training support that guides staff step-by-step through eSarkar tasks."
+    },
+    {
+      "id": "role-content",
+      "title": "Role-based Content Delivery",
+      "role": "All",
+      "department": "All",
+      "text": "Role-based Content Delivery: provides personalized training modules aligned with staff duties, for example Clerk data entry, Officer approval, Admin report generation."
+    },
+    {
+      "id": "query-handling",
+      "title": "Query Handling & Multilingual Support",
+      "role": "All",
+      "department": "All",
+      "text": "Query Handling and Multilingual Support: real-time doubt resolution with support for regional languages to ensure accessibility for Bengaluru city staff."
+    },
+    {
+      "id": "progress-tracking",
+      "title": "Progress Tracking & Reports",
+      "role": "Admin",
+      "department": "Management",
+      "text": "Progress Tracking and Reports: monitors learning progress, completion rates, and generates performance reports for supervisors."
+    },
+    {
+      "id": "admin-dashboard",
+      "title": "Admin Dashboard & Analytics",
+      "role": "Admin",
+      "department": "Management",
+      "text": "Admin Dashboard & Analytics: enables supervisors to view staff training status, track adoption and analyze usage trends."
+    },
+    {
+      "id": "integration",
+      "title": "Integration with eSarkar APIs",
+      "role": "All",
+      "department": "IT",
+      "text": "Integration with eSarkar APIs: seamless connectivity with existing eSarkar modules for contextual training, direct links and sample flows."
+    },
+    {
+      "id": "data-entry",
+      "title": "Data Entry (Clerk)",
+      "role": "Clerk",
+      "department": "Revenue",
+      "text": "As a Clerk, you enter citizen details in the New Form section of eSarkar: select New Form, enter fields (name, id, address), validate and save. Use the Save button and check validation messages."
+    },
+    {
+      "id": "approval-process",
+      "title": "Approval Process (Officer)",
+      "role": "Officer",
+      "department": "Revenue",
+      "text": "As an Officer, you review and approve applications under the Approval tab: open pending list, inspect submitted data, click Approve or Reject and add comments if needed."
+    },
+    {
+      "id": "report-generation",
+      "title": "Report Generation (Admin/Officer)",
+      "role": "Officer",
+      "department": "Analytics",
+      "text": "Report Generation: reports are available under Reports menu. Choose filters (department, date range), click Generate and export as PDF/CSV for administrative purposes."
+    },
+    {
+      "id": "password-reset",
+      "title": "IT Support - Password Reset",
+      "role": "IT",
+      "department": "IT",
+      "text": "IT Support: to reset passwords, go to Admin > User Management, select user, click Reset Password and share temporary password. Encourage two-factor authentication setup."
+    }
+  ]
+  
